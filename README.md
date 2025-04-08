@@ -1,6 +1,6 @@
 <h1 align="center">Portfólio - Ana Luisa Bernardo de Andrade</h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/fdd254f9-5648-4936-8f5d-6077a683097d" alt="my-profile" width="300" height="300" style="margin-top: 100px;"/>
+<img align="right" src="https://github.com/user-attachments/assets/fdd254f9-5648-4936-8f5d-6077a683097d" alt="my-profile" width="300" height="250" style="margin-top: 100px;"/>
 
 Olá, meu nome é **Ana Luisa Bernardo de Andrade**, tenho 20 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Iniciei minha jornada acadêmica na área de tecnologia aos 18 anos, em fevereiro de 2023, com o objetivo de construir uma carreira flexível, que me permitisse conciliar o desenvolvimento profissional com os meus projetos pessoais.
 
