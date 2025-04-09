@@ -8,7 +8,7 @@ Em 2024, um ano após o início da faculdade, decidi ingressar no mercado de tra
 
 Em outubro de 2024, após uma vivência enriquecedora na QueroBolsa, decidi buscar novos desafios. Entrei para a **Pro4Tech**, uma empresa de soluções de tecnologia localizada em São José dos Campos, onde atualmente trabalho como estagiária. Lá, tenho a oportunidade de participar de três projetos internos, envolvendo **resolução de bugs**, **reestruturação de sistemas** e **implementação de modificações solicitadas pelos clientes**. Essa experiência tem sido fundamental para meu crescimento profissional, me permitindo aplicar meus conhecimentos acadêmicos em situações reais de mercado e aprimorar minhas habilidades técnicas e de trabalho em equipe.
 
-Minha trajetória acadêmica e profissional tem sido guiada pelo desejo de aprender e pela paixão por tecnologia. Ao longo do curso, tenho me dedicado a entender não só os aspectos técnicos da programação, mas também as necessidades e soluções do mercado. Estou constantemente em busca de novas oportunidades de aprendizado e de crescimento, com o objetivo de me tornar uma profissional capacitada e preparada para os desafios do setor de tecnologia.
+Minha trajetória acadêmica e profissional é movida pela paixão por inovar e criar soluções criativas para os desafios do setor de tecnologia. Em vez de apenas seguir o caminho técnico da programação, busco sempre novas formas de abordar problemas, explorando possibilidades e buscando alternativas que tragam resultados mais eficazes e originais. Acredito que a verdadeira evolução na tecnologia vem da capacidade de pensar fora da caixa e aplicar a criatividade para transformar ideias em soluções reais e impactantes.
 
 
 
