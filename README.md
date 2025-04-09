@@ -50,12 +50,11 @@ Minha trajetória acadêmica e profissional tem sido guiada pelo desejo de apren
 
 <br />
 
----
 
 
 
 
-
+## Projetos
 
 
 <details>
@@ -106,7 +105,7 @@ A criação visual foi essencial para tornar a experiência de aprendizado mais 
 
 ### **Minhas Contribuições**
 
-Como parte da equipe de front-end, minha atuação se concentrou principalmente no design e na implementação da **tela inicial (home)**. O desafio era criar uma interface limpa e eficiente, que ajudasse o usuário a navegar pelo conteúdo do curso de forma intuitiva.
+Como parte da equipe de frontend, minha atuação se concentrou principalmente no design e na implementação da **tela inicial (home)**. O desafio era criar uma interface limpa e eficiente, que ajudasse o usuário a navegar pelo conteúdo do curso de forma intuitiva.
 
 - Desenvolvi a estrutura dos **cards interativos**, que apresentam os módulos de conteúdo, e implementei as **funções de navegação** que permitiam ao usuário avançar pelo conteúdo de maneira livre ou seguir a trilha predefinida.
 - Participei também da **revisão de conteúdo**, criando e ajustando a redação de textos informativos sobre o Scrum, garantindo clareza e precisão para o público-alvo.
