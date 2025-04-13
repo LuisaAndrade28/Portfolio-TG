@@ -134,4 +134,13 @@ Como parte da equipe de frontend, minha atuação se concentrou principalmente n
 3. **Gestão de Tempo:** Organizei minhas atividades de forma estratégica para garantir que o desenvolvimento de cada funcionalidade fosse concluído dentro do prazo, sem comprometer a qualidade do projeto.
 
 
+### **Vídeo do Projeto**
+
+
+https://github.com/user-attachments/assets/6f172dbf-3ba6-46db-80cb-cb001684c55a
+
+
+
+
+
 </details>
