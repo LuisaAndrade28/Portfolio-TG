@@ -68,9 +68,13 @@ Minha trajetória acadêmica e profissional é movida pela paixão por inovar e 
 
 Durante o 1º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma plataforma web educativa, projetada para ensinar os conceitos fundamentais da metodologia ágil Scrum. Proposto pelo professor Antônio Egydio, que atuou como cliente final, o desafio visava atender empresas interessadas em adotar o Scrum, oferecendo uma plataforma para ensinar desde os iniciantes até reforçar o conhecimento de profissionais mais experientes.
 
+### **Problema**
+A empresa de Egydio São Tiago Graça tem enfrentado dificuldades na implementação da metodologia Scrum com seus colaboradores. Embora muitos conheçam o básico, há uma série de dúvidas persistentes sobre os conceitos fundamentais, enquanto outros sequer têm conhecimento da metodologia. A falta de tempo tem sido um obstáculo, pois muitos funcionários não conseguem dedicar-se à leitura de livros ou ao estudo da metodologia. Além disso, alguns consideram a leitura pouco proveitosa e não demonstram interesse em aprofundar seus conhecimentos sobre o tema.
 ### **Solução Criada**
 
-A plataforma criada tinha como objetivo facilitar o aprendizado do Scrum, oferecendo um curso interativo e completo. Com uma interface intuitiva, os usuários podiam escolher seu próprio caminho de aprendizado ou seguir uma trilha sugerida, dependendo do seu nível de conhecimento. A solução incluiu funcionalidades como testes de avaliação e interação dinâmica, permitindo que os usuários acompanhassem seu progresso enquanto exploravam os conceitos da metodologia ágil.
+A plataforma criada tem como objetivo facilitar o aprendizado do Scrum, oferecendo um curso interativo e completo. Com uma interface intuitiva, os usuários podiam escolher seu próprio caminho de aprendizado ou seguir uma trilha sugerida, dependendo do seu nível de conhecimento. A solução incluiu funcionalidades como testes de avaliação e interação dinâmica, permitindo que os usuários acompanhassem seu progresso enquanto exploravam os conceitos da metodologia ágil.
+
+[Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
 ### **Tecnologias Utilizadas:**
 
@@ -139,8 +143,50 @@ Como parte da equipe de frontend, minha atuação se concentrou principalmente n
 
 https://github.com/user-attachments/assets/6f172dbf-3ba6-46db-80cb-cb001684c55a
 
+</details>
 
 
+<details>
+<summary>2º Semestre - Chat bot: Assistente Virtual Zari </summary>
+</br>
 
+### **Desafio do Projeto**
+
+**Data:** *Agosto/2023 - Novembro/2023*  
+**Professor Responsável:** *Giuliano Araujo Bertoti* (FATEC São José dos Campos - SP)
+
+Durante o 2º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma assistente virtual de leitura de documentos, projetada para otimizar a busca por informações em textos extensos. Proposto pelo professor Giuliano Araujo Bertoti, que atuou como cliente interno, o desafio consistia em criar uma solução capaz de auxiliar usuários na leitura e compreensão de grandes volumes de documentos, respondendo perguntas específicas de forma rápida e eficiente.
+
+### **Problema**
+Muitos usuários enfrentavam dificuldades ao precisar consultar documentos extensos para encontrar informações pontuais. O processo de leitura e busca manual tornava-se demorado, levando muitos a desistirem da tarefa ou gastarem um tempo excessivo para localizar as informações desejadas. Essa ineficiência impactava diretamente a produtividade e dificultava o desenvolvimento de atividades que dependiam dessas informações.
+
+### **Solução Criada**
+
+A solução proposta foi o desenvolvimento da assistente virtual de leitura de documentos, chamada Zari. A Zari é capaz de receber documentos enviados pelos usuários, analisar seu conteúdo e responder perguntas relacionadas de forma precisa e rápida. Com isso, a ferramenta reduz significativamente o tempo gasto na leitura e procura por dados, oferecendo uma experiência mais eficiente e produtiva para quem precisa lidar com grandes volumes de informação.
+
+[Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
 </details>
+
+<details>
+<summary>3º Semestre - Dashboard</summary>
+</br>
+
+### **Desafio do Projeto**
+
+**Data:** *Agosto/2023 - Novembro/2023*  
+**Clente Externo:** *Pro4Tech* 
+
+Durante o 3º semestre do curso, o projeto teve como objetivo o desenvolvimento de um dashboard interativo para análise de dados de vendas e clientes. Proposto pela empresa Pro4Tech, que atuou como cliente externo, o desafio consistia em criar uma ferramenta capaz de transformar grandes volumes de dados estruturados em informações visuais claras e acessíveis. A Pro4Tech é uma empresa especializada em transformação digital, comprometida em capacitar negócios para o sucesso na era digital, unindo tecnologias emergentes como inteligência artificial, análise de dados, IoT e computação em nuvem a estratégias personalizadas.
+
+### **Problema**
+Apesar de a Pro4Tech possuir dados bem organizados em planilhas do Excel, o volume massivo de informações dificultava a análise eficaz de vendas, movimentações comerciais e progressos da empresa. A leitura manual das planilhas exigia tempo e atenção, tornando o processo de tomada de decisões mais lento e menos prático, especialmente em cenários onde uma visualização rápida e clara dos dados era essencial.
+
+### **Solução Criada**
+
+A solução desenvolvida foi um dashboard com interface intuitiva, moderna e de fácil utilização. A ferramenta permite o envio de planilhas, realiza a leitura automática dos dados e os apresenta por meio de gráficos interativos, tabelas e listagens filtráveis. Os filtros personalizados possibilitam ao usuário refinar sua análise com base em critérios específicos, facilitando o acompanhamento das vendas, o monitoramento das movimentações comerciais e a geração de insights importantes para a tomada de decisões estratégicas
+
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Zari-documentation)
+
+</details>
+
