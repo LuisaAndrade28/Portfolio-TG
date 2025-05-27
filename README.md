@@ -190,3 +190,37 @@ A solução desenvolvida foi um dashboard com interface intuitiva, moderna e de 
 
 </details>
 
+
+<details> <summary>4º Semestre - Sistema de Controle de Movimentações e Serviços</summary> </br>
+    
+### Desafio do Projeto
+
+**Data:** *Agosto/2023 - Novembro/2023*  
+**Clente Externo:** *JJM LOG* 
+
+No 4º semestre do curso, o projeto teve como objetivo o desenvolvimento de um sistema de controle e comunicação para a JJM LOG, uma empresa especializada em Armazéns Gerais, Transporte e Logística Integrada, com mais de 25 anos de experiência no mercado. O desafio consistia em criar uma solução que permitisse aos entregadores registrarem dados de suas entregas, incluindo informações sobre os pacotes, quilometragem percorrida e consumo de combustível, além de fornecer um dashboard com gráficos administrativos filtráveis por data. Também deveria ser possível realizar o cadastro de clientes e solicitações de serviço, bem como criar uma área exclusiva para colaboradores, onde seria possível fazer o upload de atestados e outros documentos a serem visualizados pela equipe de RH.
+    
+### Problema
+A JJM LOG enfrentava dificuldades em gerenciar suas movimentações e serviços de forma eficiente. A comunicação entre os entregadores e a administração não era integrada, o que gerava falhas no controle de entregas, consumo de recursos e informações gerenciais. A empresa necessitava de um sistema que otimizasse esses processos, aumentasse a transparência e garantisse uma comunicação mais eficaz entre os envolvidos nas operações logísticas.
+
+### Solução Criada
+A solução desenvolvida foi um sistema completo de controle e comunicação integrado. A plataforma permite que os entregadores registrem as entregas realizadas, com informações detalhadas sobre os pacotes e dados logísticos, como quilometragem e consumo de gasolina. Além disso, foi criado um dashboard administrativo que apresenta gráficos e relatórios filtráveis por data, facilitando a análise das operações logísticas e o controle dos recursos utilizados. A ferramenta também possibilita o cadastro de novos clientes e solicitações de serviços, além de oferecer uma área para colaboradores, onde eles podem fazer o upload de documentos como atestados médicos, para visualização pela equipe de RH.
+Para visualizar o projeto, clique aqui.
+</details>
+
+<details>  <summary>5º Semestre - Aplicativo de Reembolso</summary>  </br> 
+
+### Desafio do Projeto
+
+**Data:** *Agosto/2023 - Novembro/2023*  
+**Clente Externo:** *GWS Software* 
+
+Durante o 5º semestre do curso, o projeto teve como objetivo o desenvolvimento de um aplicativo de cadastro de despesas para solicitação de reembolso. Proposto pela GSW Software, empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação, o desafio surgiu da necessidade de melhorar a gestão de custos operacionais em projetos empresariais. A GSW atua nas áreas de gestão empresarial, gestão tributária, operações em comércio exterior e CRM, oferecendo soluções tecnológicas integradas para seus clientes.
+
+### Problema
+A GSW identificou a dificuldade enfrentada por empresas que possuem múltiplos projetos simultâneos, os quais podem demandar viagens e outros custos por parte dos colaboradores. Sem uma ferramenta centralizada para gerenciar esses gastos, anexar comprovantes e solicitar reembolsos, o processo se torna desorganizado, ineficiente e propenso a falhas. Além disso, era necessário que os supervisores tivessem acesso a um ambiente onde pudessem acompanhar as solicitações e controlar os orçamentos disponíveis para cada projeto.
+
+### Solução Criada
+A solução desenvolvida foi um aplicativo intuitivo e de fácil utilização, permitindo aos colaboradores registrar suas despesas e anexar os comprovantes de forma prática. A aplicação oferece uma visualização clara dos orçamentos disponíveis para cada projeto, incluindo seus respectivos limites, e possibilita que os supervisores acompanhem os gastos em tempo real. A ferramenta visa otimizar o processo de solicitação e aprovação de reembolsos, tornando-o mais ágil, transparente e confiável para todos os envolvidos.
+Para visualizar o projeto, clique aqui.
+</details>
