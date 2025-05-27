@@ -166,6 +166,65 @@ A solução proposta foi o desenvolvimento da assistente virtual de leitura de d
 
 [Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
+### **Tecnologias Utilizadas:**
+
+#### **Frontend:**
+Criação de interfaces ricas e responsivas, com foco na experiência do usuário.
+
+- <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> **Java**  
+  A interface do chatbot foi desenvolvida inteiramente em Java, proporcionando uma aplicação robusta e com bom desempenho. A escolha da linguagem permitiu a construção de uma interface gráfica interativa, facilitando a comunicação com o usuário e a exibição das respostas.
+
+#### **Backend & Controle de Versão:**
+
+- <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> **Java**  
+  Utilizado também no backend para processar documentos extensos e gerar respostas precisas com base nas perguntas dos usuários. A aplicação foi estruturada para garantir performance e modularidade.
+
+- <img align="center" alt="Eclipse" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"> **Eclipse**  
+  Ambiente de desenvolvimento utilizado para programar e testar a aplicação, com suporte completo ao ecossistema Java e ferramentas de depuração eficientes.
+
+- **Gradle**  
+  Ferramenta de automação usada para gerenciar as dependências e compilar o projeto de forma rápida e organizada.
+
+- **MySQL**  
+  Banco de dados responsável por armazenar os documentos processados e as interações realizadas com o chatbot, garantindo persistência e integridade dos dados.
+
+- <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> & <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> **Git e GitHub**  
+  O controle de versão foi feito com o Git, enquanto o GitHub foi utilizado para hospedagem e colaboração. O uso de branches e pull requests garantiu uma organização eficaz do código.
+
+#### **Design & Protótipos:**
+A criação visual foi essencial para tornar a experiência de interação com o chatbot clara e intuitiva.
+
+- <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> **Figma**  
+  Utilizado para a criação dos protótipos da interface, possibilitando validar antecipadamente a usabilidade e a organização visual
+
+### **Minhas Contribuições**
+
+Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade do chatbot, desde a documentação inicial até a otimização das respostas geradas pela aplicação.
+
+- Colaborei na elaboração da **documentação do Mínimo Produto Viável (MPV)**, descrevendo as funcionalidades essenciais do sistema, os fluxos de interação e os critérios para validação das entregas.
+- Fui responsável pela **implementação da interface gráfica** utilizando **Java**, projetando um layout claro e organizado que facilitasse a inserção dos documentos e a exibição das respostas geradas pelo chatbot.
+- Atuei na **otimização das respostas do chatbot**, ajustando a forma como o conteúdo era processado para garantir maior clareza, precisão e relevância nas respostas fornecidas aos usuários.
+- Trabalhei na **implementação da leitura de diferentes tipos de arquivos**, incluindo **PDF e documentos do Word**, ampliando a versatilidade da aplicação e sua capacidade de compreender e responder a conteúdos provenientes de múltiplos formatos.
+
+### **Hard Skills**
+
+1. **Desenvolvimento de Interfaces em Java:**
+   - Auxiliei na criação da **interface gráfica** de perguntas e respostas do chatbot utilizando a linguagem **Java**, com foco na clareza, usabilidade e interatividade da aplicação.
+   - **Nível de proficiência:** uso com autonomia.
+
+2. **Documentação Técnica e Planejamento:**
+   - Participei da elaboração da **documentação do Mínimo Produto Viável (MPV)** em colaboração com o Product Owner, utilizando o **backlog** e a ferramenta Canva para definir entregas claras e alinhadas com os objetivos de cada sprint.
+   - **Nível de proficiência:** uso com autonomia.
+
+3. **Processamento e Otimização de Respostas em Java:**
+   - Atuei na **otimização das respostas do chatbot**, ajustando o processamento dos dados para tornar as respostas mais claras e precisas, utilizando **Java** como linguagem base.
+   - **Nível de proficiência:** uso com ajuda.
+
+4. **Leitura e Processamento de Arquivos Diversos:**
+   - Implementei a leitura de diferentes tipos de arquivos, como **PDFs e documentos Word**, com **Java**, utilizando bibliotecas como **Apache POI** e **Apache PDFBox**, ampliando a capacidade de compreensão do chatbot.
+   - **Nível de proficiência:** uso com autonomia.
+
+
 </details>
 
 <details>
