@@ -247,6 +247,60 @@ A solução desenvolvida foi um dashboard com interface intuitiva, moderna e de 
 
 [Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
+### **Tecnologias Utilizadas:**
+
+#### **Frontend:**
+Criação de interfaces ricas e responsivas, com foco na experiência do usuário.
+
+- <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> **React**  
+  Utilizado para desenvolver uma interface dinâmica e reativa, oferecendo uma navegação fluida e uma experiência de usuário moderna. Sua integração com outras bibliotecas e frameworks permitiu a construção de componentes reutilizáveis e eficientes.
+
+- <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> **TypeScript**  
+  Usado para adicionar tipagem estática ao JavaScript, aumentando a segurança do código e facilitando a manutenção e escalabilidade da aplicação.
+
+- <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> **JavaScript**  
+  Linguagem base do frontend, utilizada para manipulação da DOM, requisições assíncronas e funcionalidades interativas da interface.
+
+#### **Backend & Controle de Versão:**
+
+- <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> **Node.js**  
+  Responsável pela lógica do lado do servidor, processamento de dados e integração com banco de dados. Sua arquitetura não bloqueante contribui para uma performance otimizada.
+
+- **MySQL**  
+  Banco de dados utilizado para armazenar informações essenciais da aplicação, como dados de usuários, conteúdos processados e registros de interações, garantindo persistência e integridade.
+
+- <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> & <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> **Git e GitHub**  
+  O controle de versão foi realizado com o Git, enquanto o GitHub foi utilizado como repositório remoto para hospedagem e colaboração eficiente entre os desenvolvedores.
+
+#### **Design & Gestão:**
+A parte visual e o gerenciamento foram fundamentais para garantir uma boa usabilidade e organização do projeto.
+
+- <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> **Figma**  
+  Ferramenta usada para criação dos protótipos visuais, permitindo testes de usabilidade e validação da interface antes da implementação.
+
+- <img align="center" alt="Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg"> **Trello**  
+  Utilizado para o gerenciamento de tarefas, organização das sprints e acompanhamento do progresso do projeto de forma visual e colaborativa.
+
+- <img align="center" alt="Microsoft" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"> **Microsoft**  
+  Ferramentas como o Microsoft Teams e o pacote Office foram usadas para comunicação, documentação e suporte à colaboração remota entre os integrantes do time.
+
+- <img align="center" alt="Slack" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"> **Slack**  
+  Plataforma de comunicação utilizada pela equipe para troca rápida de informações, integração com o Trello e acompanhamento em tempo real das atualizações.
+
+### **Minhas Contribuições**
+
+Minha atuação no projeto teve foco na organização, entrega de valor contínua e desenvolvimento de funcionalidades essenciais, alinhadas diretamente com as necessidades do cliente.
+
+- Atuei como **Product Owner**, sendo o principal ponto de contato entre o time de desenvolvimento e o cliente, garantindo que as entregas estivessem alinhadas com os objetivos do negócio.
+- Fui responsável pela **documentação completa do projeto**, detalhando os requisitos, funcionalidades, fluxos e critérios de aceite, além de registrar as decisões tomadas ao longo do desenvolvimento.
+- Estruturei e gerenciei as **sprints e o backlog do produto**, priorizando as tarefas com base nas demandas do cliente e nas metas do time, utilizando práticas ágeis para manter a organização e eficiência do time.
+- Contribuí na **prototipação da interface do sistema**, garantindo uma experiência intuitiva e funcional para os usuários finais.
+- Desenvolvi a funcionalidade de **cálculo de bonificação para o colaborador**, com base em um banco de porcentagens configuráveis, automatizando o processo e reduzindo erros manuais.
+- Corrigi falhas relacionadas à **inserção de dados no banco de dados**, assegurando a integridade e consistência das informações armazenadas.
+- Implementei o **cálculo automático de ganhos** com base nas porcentagens configuradas, otimizando a performance do sistema e facilitando a análise de resultados.
+- Desenvolvi a **tipagem automática de vendas**, categorizando os dados de forma dinâmica para facilitar o tratamento e a análise posterior.
+- Organizei e mantive a **estrutura do repositório no GitHub**, garantindo versionamento claro, controle de branches e boa comunicação entre os membros da equipe.
+
 </details>
 
 
@@ -265,6 +319,54 @@ A JJM LOG enfrentava dificuldades em gerenciar suas movimentações e serviços 
 ### Solução Criada
 A solução desenvolvida foi um sistema completo de controle e comunicação integrado. A plataforma permite que os entregadores registrem as entregas realizadas, com informações detalhadas sobre os pacotes e dados logísticos, como quilometragem e consumo de gasolina. Além disso, foi criado um dashboard administrativo que apresenta gráficos e relatórios filtráveis por data, facilitando a análise das operações logísticas e o controle dos recursos utilizados. A ferramenta também possibilita o cadastro de novos clientes e solicitações de serviços, além de oferecer uma área para colaboradores, onde eles podem fazer o upload de documentos como atestados médicos, para visualização pela equipe de RH.
 Para visualizar o projeto, clique aqui.
+
+### **Tecnologias Utilizadas:**
+
+#### **Frontend:**
+Criação de interfaces ricas e responsivas, com foco na experiência do usuário.
+
+- <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> **React**  
+  Utilizado para o desenvolvimento da interface do usuário, proporcionando uma experiência moderna, rápida e modular através da criação de componentes reutilizáveis.
+
+- <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> **TypeScript**  
+  Adiciona tipagem estática ao JavaScript, oferecendo maior segurança e produtividade no desenvolvimento frontend.
+
+- <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> **JavaScript**  
+  Linguagem fundamental para a construção da lógica de interação na interface, garantindo dinamismo e interatividade.
+
+#### **Backend & Banco de Dados:**
+
+- <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> **Node.js**  
+  Empregado para o desenvolvimento do backend da aplicação, permitindo escalabilidade, velocidade e facilidade de integração com APIs e bancos de dados.
+
+- **MySQL**  
+  Banco de dados relacional utilizado para armazenar e gerenciar de forma segura as informações processadas pela aplicação.
+
+- <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> & <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> **Git e GitHub**  
+  Git foi utilizado para controle de versão do código, enquanto o GitHub serviu como plataforma de hospedagem e colaboração, possibilitando organização por branches, revisão por pull requests e rastreamento de alterações.
+
+#### **Design & Gestão:**
+Ferramentas essenciais para o planejamento visual da aplicação e organização do fluxo de trabalho da equipe.
+
+- <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> **Figma**  
+  Utilizado para a criação dos protótipos da interface, facilitando a validação visual e a experiência do usuário antes da implementação.
+
+- <img align="center" alt="Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg"> **Trello**  
+  Ferramenta usada para organizar as tarefas e acompanhar o progresso do projeto, promovendo uma gestão eficiente e colaborativa.
+
+- <img align="center" alt="Microsoft" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"> **Microsoft**  
+  Utilizado para suporte à colaboração e produtividade, incluindo ferramentas como Microsoft Teams e Office para comunicação e documentação do projeto.
+
+  ### **Minhas Contribuições**
+
+No projeto, atuei como desenvolvedora na equipe de desenvolvimento, com foco no frontend. Minhas entregas estiveram diretamente ligadas à criação de interfaces funcionais, além de contribuir com o planejamento visual do sistema.
+
+- Fui responsável pela implementação das telas de **cadastro e login**, desenvolvendo componentes reutilizáveis e responsivos. Integrei essas interfaces com as APIs de autenticação, garantindo **fluxos seguros e eficientes de entrada no sistema**.
+- Atuei no desenvolvimento da **página de fluxo de entregas**, estruturando as etapas do processo de forma visualmente clara, com uso de elementos interativos que facilitam o acompanhamento por parte do usuário.
+- Contribuí ativamente na **prototipação da interface do sistema**, trabalhando em conjunto com o time de design para validar a usabilidade e consistência visual antes da implementação.
+- Colaborei com a equipe na **identificação de melhorias visuais e de experiência do usuário**, propondo ajustes nos fluxos e componentes para otimizar a navegação e reduzir atritos durante o uso da aplicação.
+
+
 </details>
 
 <details>  <summary>5º Semestre - Aplicativo de Reembolso</summary>  </br> 
@@ -282,4 +384,73 @@ A GSW identificou a dificuldade enfrentada por empresas que possuem múltiplos p
 ### Solução Criada
 A solução desenvolvida foi um aplicativo intuitivo e de fácil utilização, permitindo aos colaboradores registrar suas despesas e anexar os comprovantes de forma prática. A aplicação oferece uma visualização clara dos orçamentos disponíveis para cada projeto, incluindo seus respectivos limites, e possibilita que os supervisores acompanhem os gastos em tempo real. A ferramenta visa otimizar o processo de solicitação e aprovação de reembolsos, tornando-o mais ágil, transparente e confiável para todos os envolvidos.
 Para visualizar o projeto, clique aqui.
+
+### **Tecnologias Utilizadas:**
+
+#### **Frontend & Mobile:**
+Desenvolvimento de interfaces modernas, adaptáveis e com foco na experiência do usuário em múltiplas plataformas.
+
+- <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> **React**  
+  Utilizado na criação de interfaces web dinâmicas e reutilizáveis, oferecendo uma experiência de usuário fluida e interativa.
+
+- <img align="center" alt="React Native" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> **React Native**  
+  Empregado no desenvolvimento de aplicativos móveis nativos com código compartilhado entre Android e iOS, otimizando o tempo de produção.
+
+- <img align="center" alt="Expo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg"> **Expo**  
+  Plataforma usada para acelerar o desenvolvimento e testes de aplicativos em React Native, simplificando o processo de build e deploy.
+
+- <img align="center" alt="Android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"> **Android**  
+  Plataforma de destino para os aplicativos desenvolvidos, garantindo compatibilidade com a maioria dos dispositivos móveis no mercado.
+
+- <img align="center" alt="Android Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"> **Android Studio**  
+  Ambiente de desenvolvimento integrado (IDE) usado para testes, builds e depuração dos aplicativos Android criados com React Native.
+
+- <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> **TypeScript**  
+  Linguagem utilizada para garantir maior robustez no código, com tipagem estática e suporte avançado para refatoração.
+
+- <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> **JavaScript**  
+  Base para o desenvolvimento das aplicações, garantindo flexibilidade e compatibilidade com os principais frameworks.
+
+#### **Backend & Banco de Dados:**
+
+- <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> **Node.js**  
+  Utilizado no backend para construção de APIs rápidas e escaláveis, com suporte a múltiplas conexões e integrações.
+
+- <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"> **MongoDB**  
+  Banco de dados NoSQL utilizado para armazenamento flexível e escalável de dados não estruturados.
+
+- <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> **MySQL**  
+  Banco de dados relacional utilizado para persistência estruturada das informações da aplicação, com foco em integridade e desempenho.
+
+#### **Design, Gestão & Colaboração:**
+
+- <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> **Figma**  
+  Ferramenta usada para prototipação e criação da interface, permitindo validar conceitos visuais e melhorar a usabilidade.
+
+- <img align="center" alt="Jira" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"> **JIRA**  
+  Utilizado para planejamento ágil, acompanhamento de tarefas, sprints e colaboração entre equipes de desenvolvimento.
+
+- <img align="center" alt="Fork" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> **FORK (Git)**  
+  Ferramenta baseada em Git usada para gerenciamento de repositórios, revisão de código e controle de versão colaborativo.
+
+  ### **Minhas Contribuições**
+
+Atuei como desenvolvedora na equipe de desenvolvimento, com foco tanto na prototipação quanto na implementação do frontend. Minhas entregas abrangeram desde a experiência visual até funcionalidades essenciais de acesso e gerenciamento.
+
+- Fui responsável por **toda a prototipação do aplicativo**, prezando por uma **navegação fluida e intuitiva**, sempre alinhada às necessidades do cliente e aos padrões de usabilidade.
+- Desenvolvi o **frontend das telas de login e cadastro do aplicativo**, garantindo acessibilidade, responsividade e integração com os serviços de autenticação.
+- Modelei e prototipei o **sistema web de gerenciamento e aprovação de custos**, oferecendo uma estrutura clara e funcional para os administradores da plataforma.
+- Implementei o **frontend da tela de cadastro de projetos**, componetizando os elementos da interface para facilitar a reutilização e manutenção do código.
+- Realizei a **padronização de cores e estilos** em todo o aplicativo, assegurando uma identidade visual consistente.
+- **Componetizei o app** para tornar o desenvolvimento mais escalável e organizado, facilitando futuras manutenções e expansões.
+- Corrigi um bug recorrente relacionado às datas, realizando a **padronização do formato de data para o português**, o que evitou falhas na exibição de informações.
+- Criei a **tela de manual do usuário**, auxiliando os novos usuários na adaptação e no uso correto das funcionalidades da aplicação.
+- Desenvolvi as **telas de introdução e onboarding do app**, oferecendo uma experiência inicial guiada e clara sobre os principais recursos.
+- Implementei todo o fluxo de **recuperação de senha**, incluindo:
+  - Tela de envio de e-mail de recuperação
+  - Tela de confirmação de código
+  - Tela de atualização de nova senha  
+  Esse processo garantiu **segurança e autonomia para os usuários** em casos de perda de acesso.
+
+
 </details>
