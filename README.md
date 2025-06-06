@@ -208,22 +208,31 @@ Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade 
 
 ### **Hard Skills**
 
-1. **Desenvolvimento de Interfaces em Java:**
-   - Auxiliei na criação da **interface gráfica** de perguntas e respostas do chatbot utilizando a linguagem **Java**, com foco na clareza, usabilidade e interatividade da aplicação.
-   - **Nível de proficiência:** uso com autonomia.
+- Java  
+  **Nível de proficiência:** uso com autonomia
 
-2. **Documentação Técnica e Planejamento:**
-   - Participei da elaboração da **documentação do Mínimo Produto Viável (MPV)** em colaboração com o Product Owner, utilizando o **backlog** e a ferramenta Canva para definir entregas claras e alinhadas com os objetivos de cada sprint.
-   - **Nível de proficiência:** uso com autonomia.
+- Eclipse  
+  **Nível de proficiência:** Uso com autonomia
 
-3. **Processamento e Otimização de Respostas em Java:**
-   - Atuei na **otimização das respostas do chatbot**, ajustando o processamento dos dados para tornar as respostas mais claras e precisas, utilizando **Java** como linguagem base.
-   - **Nível de proficiência:** uso com ajuda.
+- Gradle  
+  **Nível de proficiência:** Uso com ajuda
 
-4. **Leitura e Processamento de Arquivos Diversos:**
-   - Implementei a leitura de diferentes tipos de arquivos, como **PDFs e documentos Word**, com **Java**, utilizando bibliotecas como **Apache POI** e **Apache PDFBox**, ampliando a capacidade de compreensão do chatbot.
-   - **Nível de proficiência:** uso com autonomia.
+- MySQL  
+  **Nível de proficiência:** Uso com autonomia
 
+- Git  
+  **Nível de proficiência:** Uso com autonomia
+
+- GitHub  
+  **Nível de proficiência:** Uso com autonomia
+
+- Figma  
+  **Nível de proficiência:** Consigo ensinar
+### **Soft Skills**
+
+1. **Flexibilidade e Resiliência:** Enfrentei desafios ao lidar com Java em uma tarefa de múltiplas leituras de arquivos distintos. Apesar do atraso na entrega, comuniquei o PO prontamente e mantive o comprometimento com o projeto. Utilizei meu tempo ocioso para me aprofundar nas pesquisas e encontrar uma solução eficaz por meio de bibliotecas especializadas, demonstrando capacidade de adaptação e superação diante de dificuldades técnicas.
+
+2. **Proatividade:** Percebi que as respostas fornecidas pela inteligência artificial estavam aquém das expectativas do projeto. Propus, assumi e executei uma atividade focada na melhoria desse aspecto, com o objetivo de elevar a qualidade da experiência do usuário ao interagir com a aplicação.
 
 </details>
 
@@ -300,6 +309,49 @@ Minha atuação no projeto teve foco na organização, entrega de valor contínu
 - Implementei o **cálculo automático de ganhos** com base nas porcentagens configuradas, otimizando a performance do sistema e facilitando a análise de resultados.
 - Desenvolvi a **tipagem automática de vendas**, categorizando os dados de forma dinâmica para facilitar o tratamento e a análise posterior.
 - Organizei e mantive a **estrutura do repositório no GitHub**, garantindo versionamento claro, controle de branches e boa comunicação entre os membros da equipe.
+  
+### **Hard Skills**
+
+- React  
+  **Nível de proficiência:** Uso com autonomia
+
+- TypeScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- JavaScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- Node.js  
+  **Nível de proficiência:** Uso com autonomia
+
+- MySQL  
+  **Nível de proficiência:** Uso com autonomia
+
+- Git  
+  **Nível de proficiência:** Uso com autonomia
+
+- GitHub  
+  **Nível de proficiência:** Uso com autonomia
+
+- Figma  
+  **Nível de proficiência:** Consigo ensinar
+
+- Trello  
+  **Nível de proficiência:** Uso com autonomia
+
+- Microsoft Teams / Office  
+  **Nível de proficiência:** Uso com autonomia
+
+- Slack  
+  **Nível de proficiência:** Uso com autonomia
+
+### **Soft Skills**
+
+1. **Comunicação:** Atuei de forma ativa durante a reunião de sprint planning da primeira sprint, ouvindo atentamente as dúvidas e ideias dos colegas, além de considerar cuidadosamente as necessidades e requisitos do cliente, afim de elaborar um documento com as dúvidas mais importantes entre o time de desenvolvimento e saná-las diretamente com o cliente durante a semana. Mantive esse comprometimento comunicativo ao longo de todo o projeto — nas reuniões de retrospectiva, utilizei o espaço para promover alinhamento.
+
+2. **Criatividade:** Propus uma abordagem diferenciada na organização do backlog e no planejamento das entregas: priorizamos a conclusão das funcionalidades básicas do backend já nas primeiras sprints. Essa decisão estratégica visou antecipar os principais desafios técnicos, abrindo espaço, posteriormente, para ajustes e melhorias com mais tranquilidade.
+
+3. **Assertividade:** Durante a sprint planning da primeira sprint, expus de maneira clara e objetiva a proposta de estruturação do backlog, reforçando as demandas essenciais do cliente. Essa iniciativa contribuiu diretamente para uma organização mais eficiente do fluxo de trabalho, facilitando o desenvolvimento nas fases seguintes e reduzindo a pressão sobre o time nas últimas entregas.
 
 </details>
 
@@ -365,6 +417,44 @@ No projeto, atuei como desenvolvedora na equipe de desenvolvimento, com foco no 
 - Atuei no desenvolvimento da **página de fluxo de entregas**, estruturando as etapas do processo de forma visualmente clara, com uso de elementos interativos que facilitam o acompanhamento por parte do usuário.
 - Contribuí ativamente na **prototipação da interface do sistema**, trabalhando em conjunto com o time de design para validar a usabilidade e consistência visual antes da implementação.
 - Colaborei com a equipe na **identificação de melhorias visuais e de experiência do usuário**, propondo ajustes nos fluxos e componentes para otimizar a navegação e reduzir atritos durante o uso da aplicação.
+
+### **Hard Skills**
+
+- React  
+  **Nível de proficiência:** Uso com autonomia
+
+- TypeScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- JavaScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- Node.js  
+  **Nível de proficiência:** Uso com autonomia
+
+- MySQL  
+  **Nível de proficiência:** Uso com autonomia
+
+- Git  
+  **Nível de proficiência:** Uso com autonomia
+
+- GitHub  
+  **Nível de proficiência:** Uso com autonomia
+
+- Figma  
+  **Nível de proficiência:** Consigo ensinar
+
+- Trello  
+  **Nível de proficiência:** Uso com autonomia
+
+- Microsoft Teams / Office  
+  **Nível de proficiência:** Uso com autonomia
+
+### **Soft Skills**
+
+1. **Resiliência:** Após a apresentação da proposta do projeto, a comunicação com o cliente tornou-se escassa e dificultosa, o que complicou o esclarecimento de dúvidas essenciais para o desenvolvimento da atividade de fluxograma de entregas. Para superar esse desafio, realizei pesquisas extensivas em diversos sites e em empresas do setor de logística, buscando referências e práticas consolidadas em fluxos de entrega de aplicativos conhecidos. Essa iniciativa me permitiu desenvolver um fluxograma alinhado às necessidades do usuário, mesmo com a limitação na comunicação direta.
+
+2. **Trabalho em Equipe:** Colaborei diretamente com um colega no desenvolvimento da tela de fluxo de entregas, unindo esforços para criar soluções criativas e intuitivas. Dessa cooperação, surgiu a ideia de incluir uma área lateral no fluxograma que apresenta dados importantes sobre a entrega, como peso, volume e distância até o destino final, enriquecendo a experiência do usuário e facilitando a compreensão do processo.
 
 
 </details>
@@ -451,6 +541,55 @@ Atuei como desenvolvedora na equipe de desenvolvimento, com foco tanto na protot
   - Tela de confirmação de código
   - Tela de atualização de nova senha  
   Esse processo garantiu **segurança e autonomia para os usuários** em casos de perda de acesso.
+
+### **Hard Skills**
+
+- React  
+  **Nível de proficiência:** Uso com autonomia
+
+- React Native  
+  **Nível de proficiência:** Uso com autonomia
+
+- Expo  
+  **Nível de proficiência:** Uso com autonomia
+
+- Android  
+  **Nível de proficiência:** Uso com autonomia
+
+- Android Studio  
+  **Nível de proficiência:** Uso com ajuda
+
+- TypeScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- JavaScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- Node.js  
+  **Nível de proficiência:** Uso com autonomia
+
+- MongoDB  
+  **Nível de proficiência:** Uso com ajuda
+
+- MySQL  
+  **Nível de proficiência:** Uso com autonomia
+
+- Figma  
+  **Nível de proficiência:** Consigo ensinar
+
+- JIRA  
+  **Nível de proficiência:** Uso com autonomia
+
+- FORK (Git)  
+  **Nível de proficiência:** Uso com autonomia
+  
+### **Soft Skills**
+
+1. **Solução de Problemas:** Durante a segunda sprint do projeto, identifiquei e corrigi um bug crítico apresentado após a primeira entrega ao cliente. O erro ocorria na tela de "Novos Registros", onde o componente de input de data exibia um calendário com formatações diferentes dependendo do dispositivo, resultando em envio de dados inconsistentes ao backend e, consequentemente, ao banco de dados. Para resolver a incongruência, adaptei a estrutura de leitura da data, implementando uma formatação padronizada no formato brasileiro (dd/mm/yyyy). Com isso, garanti a integridade dos dados armazenados e evitei impactos futuros no fluxo da aplicação.
+
+2. **Criatividade:** Após a análise dos requisitos e entendimento da proposta do cliente, assumi a responsabilidade pela prototipação do projeto. Inovei na organização e navegação do aplicativo, com o objetivo de proporcionar uma experiência fluida e intuitiva ao usuário. Na tela inicial, propus a exibição de uma listagem visual dos projetos em que o colaborador está envolvido, acompanhada de uma barra de consumo que indica o quanto já foi gasto em cada um. Além disso, posicionei funcionalidades principais — como o histórico e o registro de despesas — na barra de navegação inferior, garantindo fácil acesso e usabilidade contínua.
+
+
 
 
 </details>
