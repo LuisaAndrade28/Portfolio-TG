@@ -65,6 +65,7 @@ Minha trajetória acadêmica e profissional é movida pela paixão por inovar e 
 
 **Data:** *Fevereiro/2023 - Junho/2023*  
 **Professor Responsável:** *Antônio Egydio São Tiago Graça* (FATEC São José dos Campos - SP)
+[Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
 Durante o 1º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma plataforma web educativa, projetada para ensinar os conceitos fundamentais da metodologia ágil Scrum. Proposto pelo professor Antônio Egydio, que atuou como cliente final, o desafio visava atender empresas interessadas em adotar o Scrum, oferecendo uma plataforma para ensinar desde os iniciantes até reforçar o conhecimento de profissionais mais experientes.
 
@@ -74,7 +75,6 @@ A empresa de Egydio São Tiago Graça tem enfrentado dificuldades na implementa�
 
 A plataforma criada tem como objetivo facilitar o aprendizado do Scrum, oferecendo um curso interativo e completo. Com uma interface intuitiva, os usuários podiam escolher seu próprio caminho de aprendizado ou seguir uma trilha sugerida, dependendo do seu nível de conhecimento. A solução incluiu funcionalidades como testes de avaliação e interação dinâmica, permitindo que os usuários acompanhassem seu progresso enquanto exploravam os conceitos da metodologia ágil.
 
-[Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
 ### **Tecnologias Utilizadas:**
 
@@ -154,6 +154,7 @@ https://github.com/user-attachments/assets/6f172dbf-3ba6-46db-80cb-cb001684c55a
 
 **Data:** *Agosto/2023 - Novembro/2023*  
 **Professor Responsável:** *Giuliano Araujo Bertoti* (FATEC São José dos Campos - SP)
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
 Durante o 2º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma assistente virtual de leitura de documentos, projetada para otimizar a busca por informações em textos extensos. Proposto pelo professor Giuliano Araujo Bertoti, que atuou como cliente interno, o desafio consistia em criar uma solução capaz de auxiliar usuários na leitura e compreensão de grandes volumes de documentos, respondendo perguntas específicas de forma rápida e eficiente.
 
@@ -164,7 +165,7 @@ Muitos usuários enfrentavam dificuldades ao precisar consultar documentos exten
 
 A solução proposta foi o desenvolvimento da assistente virtual de leitura de documentos, chamada Zari. A Zari é capaz de receber documentos enviados pelos usuários, analisar seu conteúdo e responder perguntas relacionadas de forma precisa e rápida. Com isso, a ferramenta reduz significativamente o tempo gasto na leitura e procura por dados, oferecendo uma experiência mais eficiente e produtiva para quem precisa lidar com grandes volumes de informação.
 
-[Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
+
 
 ### **Tecnologias Utilizadas:**
 
@@ -243,7 +244,8 @@ Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade 
 ### **Desafio do Projeto**
 
 **Data:** *Agosto/2023 - Novembro/2023*  
-**Clente Externo:** *Pro4Tech* 
+**Clente Externo:** *Pro4Tech*
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
 Durante o 3º semestre do curso, o projeto teve como objetivo o desenvolvimento de um dashboard interativo para análise de dados de vendas e clientes. Proposto pela empresa Pro4Tech, que atuou como cliente externo, o desafio consistia em criar uma ferramenta capaz de transformar grandes volumes de dados estruturados em informações visuais claras e acessíveis. A Pro4Tech é uma empresa especializada em transformação digital, comprometida em capacitar negócios para o sucesso na era digital, unindo tecnologias emergentes como inteligência artificial, análise de dados, IoT e computação em nuvem a estratégias personalizadas.
 
@@ -254,7 +256,7 @@ Apesar de a Pro4Tech possuir dados bem organizados em planilhas do Excel, o volu
 
 A solução desenvolvida foi um dashboard com interface intuitiva, moderna e de fácil utilização. A ferramenta permite o envio de planilhas, realiza a leitura automática dos dados e os apresenta por meio de gráficos interativos, tabelas e listagens filtráveis. Os filtros personalizados possibilitam ao usuário refinar sua análise com base em critérios específicos, facilitando o acompanhamento das vendas, o monitoramento das movimentações comerciais e a geração de insights importantes para a tomada de decisões estratégicas
 
-[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Zari-documentation)
+
 
 ### **Tecnologias Utilizadas:**
 
