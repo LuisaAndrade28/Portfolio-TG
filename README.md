@@ -237,6 +237,12 @@ Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade 
 
 2. **Proatividade:** Percebi que as respostas fornecidas pela inteligência artificial estavam aquém das expectativas do projeto. Propus, assumi e executei uma atividade focada na melhoria desse aspecto, com o objetivo de elevar a qualidade da experiência do usuário ao interagir com a aplicação.
 
+### **Vídeo do Projeto**
+
+https://github.com/user-attachments/assets/ddcc2065-4ba3-45ea-ba1f-fc51d161317e
+
+
+
 </details>
 
 <details>
@@ -358,6 +364,12 @@ Minha atuação no projeto teve foco na organização, entrega de valor contínu
 
 3. **Assertividade:** Durante a sprint planning da primeira sprint, expus de maneira clara e objetiva a proposta de estruturação do backlog, reforçando as demandas essenciais do cliente. Essa iniciativa contribuiu diretamente para uma organização mais eficiente do fluxo de trabalho, facilitando o desenvolvimento nas fases seguintes e reduzindo a pressão sobre o time nas últimas entregas.
 
+
+### **Vídeo do Projeto**
+
+https://github.com/user-attachments/assets/6c9a2876-a305-4019-8054-4c8afc58a16b
+
+
 </details>
 
 
@@ -461,6 +473,11 @@ No projeto, atuei como desenvolvedora na equipe de desenvolvimento, com foco no 
 1. **Resiliência:** Após a apresentação da proposta do projeto, a comunicação com o cliente tornou-se escassa e dificultosa, o que complicou o esclarecimento de dúvidas essenciais para o desenvolvimento da atividade de fluxograma de entregas. Para superar esse desafio, realizei pesquisas extensivas em diversos sites e em empresas do setor de logística, buscando referências e práticas consolidadas em fluxos de entrega de aplicativos conhecidos. Essa iniciativa me permitiu desenvolver um fluxograma alinhado às necessidades do usuário, mesmo com a limitação na comunicação direta.
 
 2. **Trabalho em Equipe:** Colaborei diretamente com um colega no desenvolvimento da tela de fluxo de entregas, unindo esforços para criar soluções criativas e intuitivas. Dessa cooperação, surgiu a ideia de incluir uma área lateral no fluxograma que apresenta dados importantes sobre a entrega, como peso, volume e distância até o destino final, enriquecendo a experiência do usuário e facilitando a compreensão do processo.
+
+### **Vídeo do Projeto**
+
+
+https://github.com/user-attachments/assets/2bd53224-01e8-4642-b717-eb22a6515ee9
 
 
 </details>
@@ -596,7 +613,8 @@ Atuei como desenvolvedora na equipe de desenvolvimento, com foco tanto na protot
 
 2. **Criatividade:** Após a análise dos requisitos e entendimento da proposta do cliente, assumi a responsabilidade pela prototipação do projeto. Inovei na organização e navegação do aplicativo, com o objetivo de proporcionar uma experiência fluida e intuitiva ao usuário. Na tela inicial, propus a exibição de uma listagem visual dos projetos em que o colaborador está envolvido, acompanhada de uma barra de consumo que indica o quanto já foi gasto em cada um. Além disso, posicionei funcionalidades principais — como o histórico e o registro de despesas — na barra de navegação inferior, garantindo fácil acesso e usabilidade contínua.
 
+### **Vídeo do Projeto**
 
-
+https://github.com/user-attachments/assets/1521e9ea-b2da-4411-bdac-98793238f6e5
 
 </details>
