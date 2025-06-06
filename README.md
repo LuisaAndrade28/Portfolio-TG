@@ -65,6 +65,7 @@ Minha trajetória acadêmica e profissional é movida pela paixão por inovar e 
 
 **Data:** *Fevereiro/2023 - Junho/2023*  
 **Professor Responsável:** *Antônio Egydio São Tiago Graça* (FATEC São José dos Campos - SP)
+
 [Para visualizar o projeto, clique aqui.](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main)
 
 Durante o 1º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma plataforma web educativa, projetada para ensinar os conceitos fundamentais da metodologia ágil Scrum. Proposto pelo professor Antônio Egydio, que atuou como cliente final, o desafio visava atender empresas interessadas em adotar o Scrum, oferecendo uma plataforma para ensinar desde os iniciantes até reforçar o conhecimento de profissionais mais experientes.
@@ -154,6 +155,7 @@ https://github.com/user-attachments/assets/6f172dbf-3ba6-46db-80cb-cb001684c55a
 
 **Data:** *Agosto/2023 - Novembro/2023*  
 **Professor Responsável:** *Giuliano Araujo Bertoti* (FATEC São José dos Campos - SP)
+
 [Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
 Durante o 2º semestre do curso, o projeto teve como objetivo o desenvolvimento de uma assistente virtual de leitura de documentos, projetada para otimizar a busca por informações em textos extensos. Proposto pelo professor Giuliano Araujo Bertoti, que atuou como cliente interno, o desafio consistia em criar uma solução capaz de auxiliar usuários na leitura e compreensão de grandes volumes de documentos, respondendo perguntas específicas de forma rápida e eficiente.
@@ -245,6 +247,7 @@ Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade 
 
 **Data:** *Agosto/2023 - Novembro/2023*  
 **Clente Externo:** *Pro4Tech*
+
 [Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech)
 
 Durante o 3º semestre do curso, o projeto teve como objetivo o desenvolvimento de um dashboard interativo para análise de dados de vendas e clientes. Proposto pela empresa Pro4Tech, que atuou como cliente externo, o desafio consistia em criar uma ferramenta capaz de transformar grandes volumes de dados estruturados em informações visuais claras e acessíveis. A Pro4Tech é uma empresa especializada em transformação digital, comprometida em capacitar negócios para o sucesso na era digital, unindo tecnologias emergentes como inteligência artificial, análise de dados, IoT e computação em nuvem a estratégias personalizadas.
@@ -365,6 +368,8 @@ Minha atuação no projeto teve foco na organização, entrega de valor contínu
 **Data:** *Agosto/2023 - Novembro/2023*  
 **Clente Externo:** *JJM LOG* 
 
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log)
+
 No 4º semestre do curso, o projeto teve como objetivo o desenvolvimento de um sistema de controle e comunicação para a JJM LOG, uma empresa especializada em Armazéns Gerais, Transporte e Logística Integrada, com mais de 25 anos de experiência no mercado. O desafio consistia em criar uma solução que permitisse aos entregadores registrarem dados de suas entregas, incluindo informações sobre os pacotes, quilometragem percorrida e consumo de combustível, além de fornecer um dashboard com gráficos administrativos filtráveis por data. Também deveria ser possível realizar o cadastro de clientes e solicitações de serviço, bem como criar uma área exclusiva para colaboradores, onde seria possível fazer o upload de atestados e outros documentos a serem visualizados pela equipe de RH.
     
 ### Problema
@@ -372,7 +377,6 @@ A JJM LOG enfrentava dificuldades em gerenciar suas movimentações e serviços 
 
 ### Solução Criada
 A solução desenvolvida foi um sistema completo de controle e comunicação integrado. A plataforma permite que os entregadores registrem as entregas realizadas, com informações detalhadas sobre os pacotes e dados logísticos, como quilometragem e consumo de gasolina. Além disso, foi criado um dashboard administrativo que apresenta gráficos e relatórios filtráveis por data, facilitando a análise das operações logísticas e o controle dos recursos utilizados. A ferramenta também possibilita o cadastro de novos clientes e solicitações de serviços, além de oferecer uma área para colaboradores, onde eles podem fazer o upload de documentos como atestados médicos, para visualização pela equipe de RH.
-Para visualizar o projeto, clique aqui.
 
 ### **Tecnologias Utilizadas:**
 
@@ -468,6 +472,8 @@ No projeto, atuei como desenvolvedora na equipe de desenvolvimento, com foco no 
 **Data:** *Agosto/2023 - Novembro/2023*  
 **Clente Externo:** *GWS Software* 
 
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+
 Durante o 5º semestre do curso, o projeto teve como objetivo o desenvolvimento de um aplicativo de cadastro de despesas para solicitação de reembolso. Proposto pela GSW Software, empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação, o desafio surgiu da necessidade de melhorar a gestão de custos operacionais em projetos empresariais. A GSW atua nas áreas de gestão empresarial, gestão tributária, operações em comércio exterior e CRM, oferecendo soluções tecnológicas integradas para seus clientes.
 
 ### Problema
@@ -475,7 +481,6 @@ A GSW identificou a dificuldade enfrentada por empresas que possuem múltiplos p
 
 ### Solução Criada
 A solução desenvolvida foi um aplicativo intuitivo e de fácil utilização, permitindo aos colaboradores registrar suas despesas e anexar os comprovantes de forma prática. A aplicação oferece uma visualização clara dos orçamentos disponíveis para cada projeto, incluindo seus respectivos limites, e possibilita que os supervisores acompanhem os gastos em tempo real. A ferramenta visa otimizar o processo de solicitação e aprovação de reembolsos, tornando-o mais ágil, transparente e confiável para todos os envolvidos.
-Para visualizar o projeto, clique aqui.
 
 ### **Tecnologias Utilizadas:**
 
