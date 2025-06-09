@@ -114,7 +114,7 @@ A criação visual foi essencial para tornar a experiência de aprendizado mais 
 
 ### **Minhas Contribuições**
 
-Como parte da equipe de frontend, minha atuação se concentrou principalmente no design e na implementação da **tela inicial (home)**. O desafio era criar uma interface limpa e eficiente, que ajudasse o usuário a navegar pelo conteúdo do curso de forma intuitiva.
+Como parte da equipe de desenvolvimento, minha atuação se concentrou principalmente no design e na implementação da **tela inicial (home)**. O desafio era criar uma interface limpa e eficiente, que ajudasse o usuário a navegar pelo conteúdo do curso de forma intuitiva.
 
 - Desenvolvi a estrutura dos **cards interativos**, que apresentam os módulos de conteúdo, e implementei as **funções de navegação** que permitiam ao usuário avançar pelo conteúdo de maneira livre ou seguir a trilha predefinida.
 - Participei também da **revisão de conteúdo**, criando e ajustando a redação de textos informativos sobre o Scrum, garantindo clareza e precisão para o público-alvo.
@@ -236,7 +236,7 @@ A criação visual foi essencial para tornar a experiência de interação com o
 
 ### **Minhas Contribuições**
 
-Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade do chatbot, desde a documentação inicial até a otimização das respostas geradas pela aplicação.
+Atuei na equipe de desenvolvimento. Minha atuação no projeto se concentrou em garantir a clareza e funcionalidade do chatbot, desde a documentação inicial até a otimização das respostas geradas pela aplicação.
 
 - Colaborei na elaboração da **documentação do Mínimo Produto Viável (MPV)**, descrevendo as funcionalidades essenciais do sistema, os fluxos de interação e os critérios para validação das entregas.
 - Fui responsável pela **implementação da interface gráfica** utilizando **Java**, projetando um layout claro e organizado que facilitasse a inserção dos documentos e a exibição das respostas geradas pelo chatbot.
@@ -461,9 +461,9 @@ Ferramentas essenciais para o planejamento visual da aplicação e organização
 - <img align="center" alt="Microsoft" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"> **Microsoft**  
   Utilizado para suporte à colaboração e produtividade, incluindo ferramentas como Microsoft Teams e Office para comunicação e documentação do projeto.
 
-  ### **Minhas Contribuições**
+### **Minhas Contribuições**
 
-No projeto, atuei como desenvolvedora na equipe de desenvolvimento, com foco no frontend. Minhas entregas estiveram diretamente ligadas à criação de interfaces funcionais, além de contribuir com o planejamento visual do sistema.
+No projeto, atuei na equipe de desenvolvimento, com foco no frontend. Minhas entregas estiveram diretamente ligadas à criação de interfaces funcionais, além de contribuir com o planejamento visual do sistema.
 
 - Fui responsável pela implementação das telas de **cadastro e login**, desenvolvendo componentes reutilizáveis e responsivos. Integrei essas interfaces com as APIs de autenticação, garantindo **fluxos seguros e eficientes de entrada no sistema**.
 - Atuei no desenvolvimento da **página de fluxo de entregas**, estruturando as etapas do processo de forma visualmente clara, com uso de elementos interativos que facilitam o acompanhamento por parte do usuário.
@@ -544,7 +544,7 @@ Desenvolvimento de interfaces modernas, adaptáveis e com foco na experiência d
 - <img align="center" alt="React Native" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> **React Native**  
   Empregado no desenvolvimento de aplicativos móveis nativos com código compartilhado entre Android e iOS, otimizando o tempo de produção.
 
-- <img align="center" alt="Expo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg"> **Expo**  
+- **Expo**  
   Plataforma usada para acelerar o desenvolvimento e testes de aplicativos em React Native, simplificando o processo de build e deploy.
 
 - <img align="center" alt="Android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"> **Android**  
@@ -583,7 +583,7 @@ Desenvolvimento de interfaces modernas, adaptáveis e com foco na experiência d
 
   ### **Minhas Contribuições**
 
-Atuei como desenvolvedora na equipe de desenvolvimento, com foco tanto na prototipação quanto na implementação do frontend. Minhas entregas abrangeram desde a experiência visual até funcionalidades essenciais de acesso e gerenciamento.
+Atuei na equipe de desenvolvimento, com foco tanto na prototipação quanto na implementação do frontend. Minhas entregas abrangeram desde a experiência visual até funcionalidades essenciais de acesso e gerenciamento.
 
 - Fui responsável por **toda a prototipação do aplicativo**, prezando por uma **navegação fluida e intuitiva**, sempre alinhada às necessidades do cliente e aos padrões de usabilidade.
 - Desenvolvi o **frontend das telas de login e cadastro do aplicativo**, garantindo acessibilidade, responsividade e integração com os serviços de autenticação.
