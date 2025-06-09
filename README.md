@@ -4,11 +4,14 @@
 
 Olá, meu nome é **Ana Luisa Bernardo de Andrade**, tenho 20 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Iniciei minha jornada acadêmica na área de tecnologia aos 18 anos, em fevereiro de 2023, com o objetivo de construir uma carreira flexível, que me permitisse conciliar o desenvolvimento profissional com os meus projetos pessoais.
 
+Optei por cursar Análise e Desenvolvimento de Sistemas na **Fatec** porque me interessei pelos **Projetos Integradores** e pelas **APIs** desenvolvidas ao longo do curso. Vi neles uma oportunidade de aprender para além da teoria, colocando em prática os conhecimentos adquiridos. Além disso, enxerguei uma vantagem significativa no contato com empresas externas, o que me permitiria compreender melhor como funciona a relação entre um desenvolvedor e um cliente em contextos reais de mercado.
+
 Em 2024, um ano após o início da faculdade, decidi ingressar no mercado de trabalho, buscando uma oportunidade que me proporcionasse experiências práticas e me aproximasse ainda mais do universo da programação. Foi então que entrei para a **Quero Educação** (atualmente QueroBolsa), onde estagiei como **SiteOps**. Durante o estágio, fui responsável pela operação e manutenção de cadastros de ofertas no site, além de colaborar no desenvolvimento de um **chatbot** para automatizar as operações internas da empresa, o que me permitiu adquirir experiência prática em programação e processos web.
 
 Em outubro de 2024, após uma vivência enriquecedora na QueroBolsa, decidi buscar novos desafios. Entrei para a **Pro4Tech**, uma empresa de soluções de tecnologia localizada em São José dos Campos, onde atualmente trabalho como estagiária. Lá, tenho a oportunidade de participar de três projetos internos, envolvendo **resolução de bugs**, **reestruturação de sistemas** e **implementação de modificações solicitadas pelos clientes**. Essa experiência tem sido fundamental para meu crescimento profissional, me permitindo aplicar meus conhecimentos acadêmicos em situações reais de mercado e aprimorar minhas habilidades técnicas e de trabalho em equipe.
 
 Minha trajetória acadêmica e profissional é movida pela paixão por inovar e criar soluções criativas para os desafios do setor de tecnologia. Em vez de apenas seguir o caminho técnico da programação, busco sempre novas formas de abordar problemas, explorando possibilidades e buscando alternativas que tragam resultados mais eficazes e originais. Acredito que a verdadeira evolução na tecnologia vem da capacidade de pensar fora da caixa e aplicar a criatividade para transformar ideias em soluções reais e impactantes.
+
 
 
 
@@ -72,6 +75,7 @@ Durante o 1º semestre do curso, o projeto teve como objetivo o desenvolvimento 
 
 ### **Problema**
 A empresa de Egydio São Tiago Graça tem enfrentado dificuldades na implementação da metodologia Scrum com seus colaboradores. Embora muitos conheçam o básico, há uma série de dúvidas persistentes sobre os conceitos fundamentais, enquanto outros sequer têm conhecimento da metodologia. A falta de tempo tem sido um obstáculo, pois muitos funcionários não conseguem dedicar-se à leitura de livros ou ao estudo da metodologia. Além disso, alguns consideram a leitura pouco proveitosa e não demonstram interesse em aprofundar seus conhecimentos sobre o tema.
+
 ### **Solução Criada**
 
 A plataforma criada tem como objetivo facilitar o aprendizado do Scrum, oferecendo um curso interativo e completo. Com uma interface intuitiva, os usuários podiam escolher seu próprio caminho de aprendizado ou seguir uma trilha sugerida, dependendo do seu nível de conhecimento. A solução incluiu funcionalidades como testes de avaliação e interação dinâmica, permitindo que os usuários acompanhassem seu progresso enquanto exploravam os conceitos da metodologia ágil.
@@ -116,27 +120,57 @@ Como parte da equipe de frontend, minha atuação se concentrou principalmente n
 - Participei também da **revisão de conteúdo**, criando e ajustando a redação de textos informativos sobre o Scrum, garantindo clareza e precisão para o público-alvo.
 - Para garantir a **acessibilidade e usabilidade**, utilizei **CSS** e **JavaScript** para ajustar o design da plataforma, incluindo a implementação do modo escuro, uma funcionalidade que trouxe uma experiência personalizada para os usuários.
 
+
 ### **Hard Skills**
 
-1. **Desenvolvimento Front-end:**
-   - Criação de páginas com **HTML5**, garantindo uma estrutura semântica e acessível.
-   - Implementação de **CSS3** para o design de layouts responsivos, adaptáveis a diferentes dispositivos e tamanhos de tela.
-   - Utilização de **JavaScript** para criar funcionalidades interativas, como a alternância entre temas claro e escuro e a construção de um sistema dinâmico de avaliações.
+- **Java**  
+  **Nível de proficiência:** Uso com autonomia
 
-2. **Desenvolvimento Back-end:**
-   - Utilização de **Flask**, um framework ágil, para criar rotas e integrar o front-end e back-end de maneira eficiente.
+- **HTML5**  
+  **Nível de proficiência:** Uso com autonomia
 
-3. **Controle de Versão e Colaboração:**
-   - **Git** e **GitHub** foram fundamentais para o controle de versão e gestão do código-fonte do projeto. Realizei commits, criei branches e participei de pull requests para colaborar de forma eficaz com a equipe.
+- **CSS3**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **Bootstrap**  
+  **Nível de proficiência:** Uso com ajuda
+
+- **JavaScript**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **Flask**  
+  **Nível de proficiência:** Uso com ajuda
+
+- **Eclipse**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **Gradle**  
+  **Nível de proficiência:** Uso com ajuda
+
+- **MySQL**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **Git**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **GitHub**  
+  **Nível de proficiência:** Uso com autonomia
+
+- **Figma**  
+  **Nível de proficiência:** Consigo ensinar
 
 
 ### **Soft Skills**
 
-1. **Trabalho em Equipe:** A colaboração contínua com os membros da equipe foi essencial para integrar as diversas partes do projeto e resolver problemas técnicos, principalmente no trabalho conjunto entre front-end e back-end.
+1. **Trabalho em Equipe:**  
+   Durante a primeira sprint, atuei em conjunto com mais dois desenvolvedores para redigir os textos que seriam exibidos no site, utilizando como referência livros que abordam a metodologia Scrum. Essa colaboração foi essencial para alinhar o conteúdo técnico à proposta visual da plataforma.
 
-2. **Comunicação Eficaz:** Mantive uma comunicação clara com a equipe e com o professor, garantindo que as expectativas estivessem alinhadas e que os prazos e entregas fossem cumpridos.
+2. **Comunicação Eficaz:**  
+   Utilizei minha capacidade de comunicação para propor a inclusão de flash cards interativos na página inicial do site. Na reunião de encerramento da segunda sprint, apresentei um protótipo funcional da ideia que desenvolvi de forma independente, defendendo sua implementação diante da equipe com argumentos claros e objetivos, o que contribuiu para a aceitação da proposta.
 
-3. **Gestão de Tempo:** Organizei minhas atividades de forma estratégica para garantir que o desenvolvimento de cada funcionalidade fosse concluído dentro do prazo, sem comprometer a qualidade do projeto.
+3. **Gestão de Tempo:**  
+   Aproveitei momentos ociosos entre as aulas durante a segunda sprint para avançar no desenvolvimento dos flash cards, o que otimizou o tempo de produção e agregou valor à experiência do usuário. Essa iniciativa ajudou a manter o projeto dentro do cronograma sem sobrecarregar as sprints seguintes.
+
 
 
 ### **Vídeo do Projeto**
