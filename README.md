@@ -652,3 +652,145 @@ Atuei na equipe de desenvolvimento, com foco tanto na prototipação quanto na i
 https://github.com/user-attachments/assets/1521e9ea-b2da-4411-bdac-98793238f6e5
 
 </details>
+
+<details>  
+<summary>6º Semestre - NutriMind (Agente Nutricional com IA)</summary>  
+</br> 
+
+### Desafio do Projeto
+
+**Data:** *Fevereiro/2024 - Junho/2024*  
+**Cliente Externo:** *Xertica AI* 
+
+[Para visualizar o projeto, clique aqui.](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
+
+Durante o 6º semestre do curso, o projeto teve como foco o desenvolvimento do **NutriMind**, um agente conversacional inteligente para apoio nutricional personalizado. A proposta foi realizada em parceria com a **Xertica**, uma empresa especializada em soluções de **IA generativa** e consultoria em nuvem, que busca promover inovação responsável na América Latina.
+
+### Problema
+
+A Xertica identificou a dificuldade de acesso a **orientações nutricionais personalizadas**, seja por limitações financeiras ou logísticas. Muitas pessoas acabam seguindo dietas genéricas, pouco adaptadas às suas necessidades, o que dificulta a manutenção de hábitos saudáveis ao longo do tempo. Havia, portanto, a necessidade de **uma solução acessível, personalizada e contínua**, capaz de auxiliar o paciente em sua própria jornada nutricional.
+
+### Solução Criada
+
+A solução desenvolvida foi o **NutriMind**, um agente de IA treinado para:
+- Realizar **anamnese** e compreender o perfil alimentar do paciente;
+- **Responder dúvidas** relacionadas à nutrição e hábitos saudáveis;
+- **Gerar planos alimentares personalizados**, alinhados aos objetivos de cada usuário;
+- Acompanhar a **evolução do paciente** ao longo do tempo, promovendo uma experiência acolhedora e eficiente.
+
+A aplicação integra Interface Web, Backend de Gestão, Agentes Inteligentes e um módulo de **RAG (Retrieval-Augmented Generation)** para fornecer respostas contextualizadas, precisas e humanizadas.
+
+### **Tecnologias Utilizadas:**
+
+#### **Frontend:**
+Desenvolvimento de interfaces modernas, responsivas e com foco na experiência do usuário.
+
+- <img align="center" alt="Vue.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> **Vue.js**  
+  Utilizado para construção da interface web do sistema, oferecendo componentes reativos, reutilizáveis e de fácil manutenção.
+
+- <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> **TypeScript**  
+  Implementado para garantir segurança no código, com tipagem estática e maior previsibilidade durante o desenvolvimento.
+
+- <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> **JavaScript**  
+  Linguagem base do desenvolvimento frontend, garantindo flexibilidade lógica e interação dinâmica com o usuário.
+
+- <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> **Figma**  
+  Utilizado para a criação e validação de protótipos de interface, permitindo aprimorar a experiência visual e de navegação.
+
+#### **Backend & Banco de Dados:**
+
+- <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> **Python**  
+  Empregado no desenvolvimento da lógica do agente de IA, responsável por interpretar entradas e gerar respostas personalizadas.
+
+- <img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> **Flask**  
+  Utilizado como ponte de integração entre o frontend e o módulo inteligente da aplicação, viabilizando troca de dados entre sistemas.
+
+- <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> **Java** + <img align="center" alt="Spring Boot" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> **Spring Boot**  
+  Responsáveis pelo backend principal do sistema, realizando gestão de usuários, autenticação e persistência dos dados.
+
+- <img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> **PostgreSQL**  
+  Banco de dados relacional utilizado para armazenamento seguro das informações, garantindo consistência e desempenho.
+
+- ⚙️ **Maven**  
+  Gerenciador de dependências e automação do processo de build no backend Java.
+
+#### **IA, Agentes e RAG:**
+
+- 🤖 **Gemini (Google)**  
+  Modelo de linguagem responsável por interpretar contexto, gerar respostas e auxiliar o paciente ao longo de sua jornada nutricional.
+
+- <img align="center" alt="LangChain" height="30" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png"> **LangChain**  
+  Utilizado para estruturar o módulo de **RAG (Retrieval-Augmented Generation)**, permitindo contextualização inteligente das respostas.
+
+- 🧬 **ChromaDB**  
+  Banco de vetores utilizado para armazenamento de embeddings e recuperação eficiente de informações relevantes para cada paciente.
+
+- 🔷 **Google ADK**  
+  Responsável pela orquestração e integração entre os agentes inteligentes da solução.
+
+#### **Design, Gestão & Colaboração:**
+
+- <img align="center" alt="Jira" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"> **JIRA**  
+  Utilizado para planejamento ágil, acompanhamento das sprints e organização dos fluxos de trabalho.
+
+- 💬 **Microsoft Teams**  
+  Plataforma utilizada para comunicação contínua da equipe e alinhamento das decisões do projeto.
+
+- <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> **GitHub**  
+  Ferramenta usada para controle de versão, revisão de código e colaboração entre os desenvolvedores.
+
+
+### **Minhas Contribuições**
+
+Atuei principalmente no **frontend** e na **prototipação visual**, contribuindo diretamente na experiência do usuário e na integração com a lógica do agente de IA.
+
+- Responsável pela **prototipação visual completa** das telas principais, garantindo navegação intuitiva para diferentes perfis de pacientes.
+- Desenvolvimento das telas de **Login e Cadastro**, conectadas ao fluxo de **anamnese inicial**.
+- Realizei **revisão de layout e organização de arquivos** no frontend, padronizando o código para maior escalabilidade.
+- Desenvolvimento do **carrossel de planos alimentares**, incluindo **cálculo automático de calorias e itens**.
+- Criação da **página de FAQ** e redação dos textos, priorizando clareza e acolhimento.
+- Implementação da **dashboard de acompanhamento de metas**, com visualização de progresso.
+- Desenvolvimento do **fluxo de geração de PDF** do plano alimentar, possibilitando que o paciente exporte seu plano.
+- Atuei na **correção de um bug crítico no backend**, ajudando uma colega na entrega final da sprint.
+
+
+
+### **Hard Skills**
+
+- Vue.js  
+  **Nível de proficiência:** Consigo ensinar
+
+- TypeScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- JavaScript  
+  **Nível de proficiência:** Uso com autonomia
+
+- PostgreSQL  
+  **Nível de proficiência:** Uso com autonomia
+
+- Figma  
+  **Nível de proficiência:** Consigo ensinar
+
+- JIRA  
+  **Nível de proficiência:** Uso com autonomia
+
+- GitHub  
+  **Nível de proficiência:** Uso com autonomia
+
+
+
+
+### **Soft Skills**
+
+1. **Produtividade e Autonomia:** Durante a segunda sprint, identifiquei e solucionei um bug crítico no backend relacionado às permissões de acesso, que estava impedindo o paciente de visualizar o próprio perfil. Assumi o diagnóstico, realizei a correção das regras de rota e garanti a entrega da funcionalidade sem comprometer o prazo da equipe.
+
+2. **Criatividade** Ao estruturar o fluxo de navegação entre paciente e agente no NutriMind, mantive o foco na clareza da experiência, garantindo que pessoas com diferentes idades e níveis de familiaridade tecnológica conseguissem interagir com o sistema de forma fluida. Minha visão criativa contribuiu para tornar a conversa com o agente mais natural, acessível e intuitiva.
+
+---
+
+### **Vídeo do Projeto**
+*(Se tiver o vídeo, coloco aqui depois.)*
+
+</details>
+
