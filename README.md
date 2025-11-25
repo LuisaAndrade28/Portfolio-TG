@@ -654,7 +654,7 @@ https://github.com/user-attachments/assets/1521e9ea-b2da-4411-bdac-98793238f6e5
 </details>
 
 <details>  
-<summary>6º Semestre - NutriMind (Agente Nutricional com IA)</summary>  
+<summary>6º Semestre - Agente Nutricional -  NutriMind</summary>  
 </br> 
 
 ### Desafio do Projeto
