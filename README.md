@@ -789,8 +789,5 @@ Atuei principalmente no **frontend** e na **prototipação visual**, contribuind
 
 ---
 
-### **Vídeo do Projeto**
-*(Se tiver o vídeo, coloco aqui depois.)*
-
 </details>
 
