@@ -593,7 +593,7 @@ Na tela de registro de gastos, organizei a interface de modo que cada gasto fiqu
 
 No sistema web, trabalhei para que o gerenciamento fosse ágil e sem sobrecarga cognitiva. Acompanhar solicitações, aprovar ou reprovar gastos, vincular funcionários a projetos e cadastrar categorias e limites pôde ser feito de forma clara e rápida. O fluxo de revisão e aprovação foi desenhado para evitar perdas de informações e garantir rastreabilidade do início ao fim.
 
-Todo e
+Todo esse conjunto de fluxos, navegação e telas foi planejado e apresentado por mim ao cliente e à equipe de desenvolvimento, demonstrando como as escolhas de design reforçam a eficiência do processo e a confiabilidade das informações.
 
 Além disso:
 
