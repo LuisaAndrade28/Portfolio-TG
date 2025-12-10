@@ -583,9 +583,20 @@ Desenvolvimento de interfaces modernas, adaptáveis e com foco na experiência d
 
   ### **Minhas Contribuições**
 
-Atuei na equipe de desenvolvimento, com foco tanto na prototipação quanto na implementação do frontend. Minhas entregas abrangeram desde a experiência visual até funcionalidades essenciais de acesso e gerenciamento.
+Atuei na equipe de desenvolvimento com foco tanto na prototipação quanto na implementação do frontend, contribuindo diretamente para a construção da experiência do usuário em todas as partes do produto. Minhas entregas abrangeram desde o desenho da jornada do usuário até funcionalidades essenciais de acesso e gerenciamento.
 
-- Fui responsável por **toda a prototipação do aplicativo**, prezando por uma **navegação fluida e intuitiva**, sempre alinhada às necessidades do cliente e aos padrões de usabilidade.
+Fui responsável por toda a prototipação do aplicativo e do sistema de gerenciamento web, estruturando fluxos completos, wireframes e interfaces finais. Meu trabalho seguiu princípios de usabilidade e identidade visual definidos pelo cliente, garantindo coerência entre as duas plataformas.
+
+Nesse processo, direcionei grande atenção à fluidez da navegação. Reduzi o número de cliques necessários para acessar as principais funções, mantendo o usuário sempre a um toque de distância de qualquer ação importante. A barra de navegação foi desenhada de acordo com a lógica da Lei de Fitts, facilitando o alcance rápido das ações essenciais, enquanto o agrupamento de elementos seguiu princípios da Gestalt para tornar a leitura e o entendimento mais naturais. A página inicial apresenta cards que mostram o consumo de cada projeto e seus limites, facilitando o acompanhamento dos gastos de maneira clara e imediata.
+
+Na tela de registro de gastos, organizei a interface de modo que cada gasto fique automaticamente vinculado à sua categoria e ao projeto correspondente. Isso torna o preenchimento mais intuitivo e reduz erros, além de dar ao funcionário uma visão segmentada e organizada do que está registrando. Já a tela de histórico permite consultar rapidamente todos os gastos, seus status de aprovação, a qual projeto pertencem e em qual categoria se enquadram.
+
+No sistema web, trabalhei para que o gerenciamento fosse ágil e sem sobrecarga cognitiva. Acompanhar solicitações, aprovar ou reprovar gastos, vincular funcionários a projetos e cadastrar categorias e limites pôde ser feito de forma clara e rápida. O fluxo de revisão e aprovação foi desenhado para evitar perdas de informações e garantir rastreabilidade do início ao fim.
+
+Todo e
+
+Além disso:
+
 - Desenvolvi o **frontend das telas de login e cadastro do aplicativo**, garantindo acessibilidade, responsividade e integração com os serviços de autenticação.
 - Modelei e prototipei o **sistema web de gerenciamento e aprovação de custos**, oferecendo uma estrutura clara e funcional para os administradores da plataforma.
 - Implementei o **frontend da tela de cadastro de projetos**, componetizando os elementos da interface para facilitar a reutilização e manutenção do código.
